@@ -1,0 +1,6 @@
+cp a.js b.ja
+rm 1.js; rm -rf src;
+mv index.html index1.html; mv c.js dist/d.js
+cat a.js // 打开
+grep "babel" package.json
+vim 1.txt // 打开并编辑
